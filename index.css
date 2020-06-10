@@ -1,3 +1,21 @@
-.social {
-  color: red;
+.navbar.bg-light {
+  background-color: #f3e2b3 !important;
+  .form-control {
+    border-radius: 4.25rem;
+  }
+}
+body {
+  background-image: url("https://i.ibb.co/47B0rFn/contemporary-china.png");
+  background-repeat: repeat;
+}
+
+#first {
+  background-image: url("https://i.ibb.co/Mkc5zqT/pngtree-chinese-style-ink-and-light-sarcophagus-medicinal-herbs-poster-background-material-image-144005.jpg");
+  background-size: cover;
+  padding: 2px;
+  border-radius: 20px;
+}
+
+.text-big {
+  font-size: 20px;
 }
