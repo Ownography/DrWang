@@ -24,6 +24,13 @@ body {
   border-radius: 20px;
 }
 
+
+#fees {
+  background-image: url("https://i.ibb.co/Mkc5zqT/pngtree-chinese-style-ink-and-light-sarcophagus-medicinal-herbs-poster-background-material-image-144005.jpg");
+  background-size: cover;
+  padding: 2px;
+  border-radius: 20px;
+}
 .text-big {
   font-size: 20px;
 }
@@ -55,4 +62,8 @@ body {
     i{font-size: 18px;}
   }
   .copyright p{border-top:1px solid rgba(255,255,255,.1);}
+}
+
+.card-bg-clr {
+  background-color: #fff2e6;
 }
